@@ -1,0 +1,5 @@
+本程序使用Python 3.7.7编写运行
+
+本程序主要适用于质谱仪器生成的后缀名为mzml高分辨质谱数据以及质谱成像imzml质谱数据提取以及分析处理。
+
+本程序中使用到的Python模块包括PyQt5，numpy，matplotlib等
